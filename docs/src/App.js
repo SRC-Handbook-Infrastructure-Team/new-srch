@@ -5,7 +5,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>
-          HELLO
+          HELLO! This is the entry point!!
         </p>
       </header>
     </div>
