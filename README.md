@@ -12,4 +12,8 @@ For example to clone using HTTPS, run
 
 4. Run `npm start` to start the local development server.
 
-5. When you push changes, you should automatically be able to view the deployed changes in our GitHub pages site: 
+5. When finished with changes, deploy your changes by running `npm run deploy` in the `website` directory.
+
+6. `cd ..` back to `main` and then add, commit, and push your changes.
+
+5. After pushing your changes, you should automatically be able to view the deployed changes in our GitHub pages site: https://src-handbook-infrastructure-team.github.io/new-srch/
