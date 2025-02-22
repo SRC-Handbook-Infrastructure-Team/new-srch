@@ -15,6 +15,7 @@ function App() {
         </a>
       </div>
       <h1>This is the entry point!</h1>
+      <h2>Here is a test block of text!</h2>
     </>
   )
 }
